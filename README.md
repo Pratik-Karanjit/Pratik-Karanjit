@@ -11,7 +11,7 @@
 
 - 👨‍💻 View my portfolio at -> [https://pratikkaranjit.com.np/](https://pratikkaranjit.com.np/)
 
-- 📫 How to reach me **pratikkaranjit@gmail.com**
+- 📫 To reach out -> **pratikkaranjit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
