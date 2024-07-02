@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-karanjit&show_icons=true&locale=en&theme=onedark" alt="pratik-karanjit" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pratik-karanjit)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pratik-Karanjit&theme=dark)](https://git.io/streak-stats)
