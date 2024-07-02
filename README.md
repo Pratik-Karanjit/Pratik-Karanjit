@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **open source and freelancing projects.**
 
-- 👨‍💻 All of my projects are available at [https://pratikkaranjit.com.np/](https://pratikkaranjit.com.np/)
+- 👨‍💻 View my portfolio at -> [https://pratikkaranjit.com.np/](https://pratikkaranjit.com.np/)
 
 - 📫 How to reach me **pratikkaranjit@gmail.com**
 
