@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-karanjit&show_icons=true&locale=en&theme=onedark" alt="pratik-karanjit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-karanjit&theme=onedark" alt="pratik-karanjit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-karanjit&&theme=onedark" alt="pratik-karanjit" /></p>
