@@ -100,5 +100,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pratik-karanjit&show_icons=true&locale=en&theme=onedark" alt="pratik-karanjit" /></p>
 
 <br clear="left" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pratik-Karanjit&theme=dark" alt="GitHub Streak"/></p>
+
 
