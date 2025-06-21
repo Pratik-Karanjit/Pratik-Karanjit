@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Pratik</h1> <h3 align="center">Full Stack Developer | AR Enthusiast | Open Source Contributor</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratik-karanjit&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-karanjit" /> </p>
+<h1 align="center">Hi there 👋, I'm Pratik</h1> <h3 align="center">Full Stack Developer | Frontend Enthusiast | Open Source Contributor</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratik-karanjit&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-karanjit" /> </p>
 💫 About Me
-🔭 Currently working on various Full Stack and AR projects
+🔭 Currently learning NextJS 15 and GraphQL
 👯 Open to collaborating on open-source projects and freelance opportunities
 🌐 Portfolio
 📫 Reach me at pratikkaranjit@gmail.com
