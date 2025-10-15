@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Pratik</h1> <h3 align="center">Full Stack Developer | Frontend Enthusiast </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratik-karanjit&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-karanjit" /> </p>
+<h1 align="center">Hi there 👋, I'm Pratik</h1> <h3 align="center">Full Stack Engineer | MERN | AWS </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratik-karanjit&label=Profile%20views&color=0e75b6&style=flat" alt="pratik-karanjit" /> </p>
 💫 About Me
 🔭 Can help you develop and deploy React/Next.js, Node.js and MongoDB applications
 👯 Open to collaborating on open-source projects and freelance opportunities
